@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name lalboard)(type Legacy)(uri ${KIPRJMOD}/lalboard.lib)(options "")(descr ""))
+  (lib (name thumb_cluster-rescue)(type Legacy)(uri ${KIPRJMOD}/thumb_cluster-rescue.lib)(options "")(descr ""))
 )
